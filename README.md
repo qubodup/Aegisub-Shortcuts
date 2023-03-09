@@ -135,3 +135,6 @@ Screenshot to text grab
 
 # Screenshots:
 
+![Aegisub Keyboard Shortcut Screenshot 1](./AegisubShortcuts1.png)
+![Aegisub Keyboard Shortcut Screenshot 2](./AegisubShortcuts2.png)
+![Aegisub Keyboard Shortcut Screenshot 3](./AegisubShortcuts3.png)
