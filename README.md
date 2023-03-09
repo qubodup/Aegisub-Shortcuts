@@ -1,4 +1,4 @@
-Aegisub keyboard shortcuts based on Aegisub 3.2.2, grabbed with a screenshot to text grabber, so might have mistakes.
+Aegisub keyboard hokey shortcuts based on Aegisub 3.2.2, grabbed with a screenshot to text grabber, so might have mistakes.
 
 Screenshot to text grab
 
