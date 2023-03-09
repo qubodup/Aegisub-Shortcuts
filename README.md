@@ -144,3 +144,5 @@ Screenshot to text grab
 * Aegisub devs and community
 * https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
 * ABBYY Screenshot Reader (it sucks so much less than Microsoft PowerToys' Text Extractor)
+* Lightshot for making it easier to take screenshots
+* AHK for letting me fullscreen the window with the shortcuts and hide the window decoration with one shortcut for easier screenshot-taking
