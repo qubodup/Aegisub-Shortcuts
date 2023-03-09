@@ -104,7 +104,7 @@ Screenshot to text grab
 | Subtitle Edit Box     | Alt-1             | edit/color/primary                         | Set the primary fill color (\\c) at the cursor position                                                          |
 | Subtitle Edit Box     | Alt-2             | edit/color/secondary                       | Set the secondary (karaoke) fill color (\\2c) at the cursor position                                             |
 | Subtitle Edit Box     | Alt-4             | edit/color/shadow                          | Set the shadow color (\\4c) at the cursor position                                                               |
-| Subtitle Edit Box     | Enter             | gridd/line/next/create                     | Move to the next subtitle line, creating a new one if needed                                                     |
+| Subtitle Edit Box     | Enter             | grid/line/next/create                     | Move to the next subtitle line, creating a new one if needed                                                     |
 | Subtitle Edit Box     | KP_Enter          | grid/line/next/create                      | Move to the next subtitle line, creating a new one if needed                                                     |
 |                       |                   |                                            |                                                                                                                  |
 | Subtitle Grid         | Ctrl-A            | subtitle/select/all                        | Select all dialogue lines                                                                                        |
