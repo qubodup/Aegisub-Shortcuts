@@ -133,8 +133,14 @@ Screenshot to text grab
 | Video                 | G                 | video/tool/scale                           | Scale subtitles on X and Y axes                                                                                  |
 | Video                 | J                 | video/tool/vector.clip                     | Clip subtitles to a vectorial area                                                                               |
 
-# Screenshots:
+# Screenshots
 
 ![Aegisub Keyboard Shortcut Screenshot 1](./AegisubShortcuts1.png)
 ![Aegisub Keyboard Shortcut Screenshot 2](./AegisubShortcuts2.png)
 ![Aegisub Keyboard Shortcut Screenshot 3](./AegisubShortcuts3.png)
+
+# Thanks 
+
+* Aegisub devs and community
+* https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
+* ABBYY Screenshot Reader (it sucks so much less than Microsoft PowerToys' Text Extractor)
