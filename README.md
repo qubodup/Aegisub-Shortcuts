@@ -1,6 +1,6 @@
 Aegisub keyboard hokey shortcuts based on Aegisub 3.2.2, grabbed with a screenshot to text grabber, so might have mistakes.
 
-Screenshot to text grab
+You can configure and make your own. [The list of commands](https://aegisub.org/docs/latest/commands/) and [YAML of commands](https://github.com/Aegisub/aegisite/blob/master/data/commands_32.yaml) might be useful for that.
 
 | Category              | Hotkey            | Command                                    | Description                                                                                                      |
 | --------------------- | ----------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
